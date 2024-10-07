@@ -54,4 +54,4 @@ def compare_files(file1_path, file2_path):
 
 
 # Example usage (compare  files, one from folder Local and one from folder ShareDrive)
-compare_files('Local/.HTML', 'ShareDrive/.HTML')
+compare_files('Local/Test.java', 'ShareDrive/Test.java')
