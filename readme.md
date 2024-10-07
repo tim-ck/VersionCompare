@@ -1,6 +1,6 @@
 # VersionCompare
 ## About
-I accidentally reformat a file (10k+ lines of code) from existing project. I edit existing code and commit it but only realizing my mistake. git thought I edit every line of it. now it is too late and ctrl + z no longer work. I need to find out the real changes I modified to the file. So I create this little tools help me compare two files and highlight the real different.
+I accidentally reformat a file (10k+ lines of code) from existing project. I edit existing code and tried to stage changes only to realize my mistake. git highlight every single line of the file like I edit every line of it (OOPS!). it is too late now and ctrl + z no longer work. I need to find out the real changes I made to the file so i can commit properly. So I create this little tools help me compare two files and highlight the real different.
 
 ## Overview
 
